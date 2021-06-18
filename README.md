@@ -2,7 +2,7 @@
 
 I'm new to coding, just figuring stuff out here!
 
-🎶 Mostly Listening on Spotify: [Lakey Inspired-Blue Boi](https://youtu.be/wAukvwLCVbM)
+🎶 Mostly Listening on Spotify: [Koryin - Figuring Out (ft. lizzy)](https://youtu.be/MSfD-QApDyU)
 
 🎬 YouTuber, 1,000+ subs: [SUBSCRIBE](https://www.youtube.com/techpointch?sub_confirmation=1)
 
