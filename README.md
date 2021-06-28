@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm new to coding, just figuring stuff out here!
+I'm Tech (aka Tech Point) and this is my GitHub account
 
 🎶 Mostly Listening on Spotify: [Koryin - Figuring Out (ft. lizzy)](https://youtu.be/MSfD-QApDyU)
 
