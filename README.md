@@ -2,10 +2,10 @@
 
 ![Bharath's GitHub statistics](https://github-readme-stats.vercel.app/api?username=techpointdev&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/techpointdev/Trollify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techpointdev&repo=Trollify&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/techpointdev/Zarzul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techpointdev&repo=Zarzul&theme=tokyonight" />
 </a>
 
