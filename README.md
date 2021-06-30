@@ -1,9 +1,12 @@
 ### 👋 Hi there! I'm Tech (aka Tech Point) and I make websites and stuff
 
-[![TecqhStats](https://github-readme-stats.vercel.app/api?username=techpointdev)](https://github.com/anuraghazra/github-readme-stats)
+![Tech Point's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=techpointdev&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techpointdev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techpointdev&langs_count=8)](https://github.com/techpointdev)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techpointdev&repo=Trollify)](https://github.com/techpointdev/Trollify)
+
 
 
 
