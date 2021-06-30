@@ -1,6 +1,11 @@
-### Hi there! 👋
+### 👋 Hi there! I'm Tech (aka Tech Point) and I make websites and stuff
 
-I'm Tech (aka Tech Point) and this is my GitHub account
+[![TecqhStats](https://github-readme-stats.vercel.app/api?username=techpointdev)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techpointdev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 🎶 Mostly Listening on Spotify: [Koryin - Figuring Out (ft. lizzy)](https://youtu.be/MSfD-QApDyU)
 
