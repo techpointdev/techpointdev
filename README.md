@@ -1,5 +1,7 @@
 ### <h1 align="center"><img src="https://media.tenor.com/images/aadee35242e901eb394dcf5680ba5acb/tenor.gif" width="38px" /> Hey there! I'm Tech and I make websites and stuff</h1>
 
+My name is Bharath, I prefer to be called Tech or Tech Point, and I'm a Windows Enthusiast, Gamer and figuring stuff out here on GitHub
+
 ![Bharath's GitHub statistics](https://github-readme-stats.vercel.app/api?username=techpointdev&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/techpointdev/Trollify">
