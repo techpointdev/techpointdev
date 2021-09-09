@@ -40,6 +40,3 @@
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=techpointdev&show_icons=true&theme=tokyonight" />
 </p>
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=94ws6fbisojhv8nlh9vie3w34&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
