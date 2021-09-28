@@ -7,7 +7,7 @@
 
 - 👯 I'm a Microsoft enthusiast and you can find me on the  <a href="https://msft.chat">Microsoft Community Discord</a>
 
-- 📫 How to reach me: **Tech.#1234 on Discord**
+- 📫 How to reach me: **Tech#9787 on Discord**
 
 - ⚡ What client I use for Minecraft: <a href="https://offlinecheatbreaker.com">Offline CheatBreaker</a>
 
