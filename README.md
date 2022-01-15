@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **Tech#9787 on Discord**
 
-- ⚡ What client I use for Minecraft: <a href="https://offlinecheatbreaker.com">Offline CheatBreaker</a>
+- ⚡ 1,110+ Subscribers @ <a href="https://youtube.com/techpointch">YouTube</a>
 
 <h3 align="center">Socials:</h3>
 <div align="center">
